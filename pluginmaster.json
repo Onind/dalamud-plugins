@@ -1,0 +1,29 @@
+[
+  {
+    "Author": "Onind",
+    "Name": "Retainer Market Uploader",
+    "Punchline": "Upload retainer market listings to external API",
+    "Description": "Automatically reads active retainer market listings and uploads them to a configured API endpoint for price tracking and market analysis. Supports both manual bulk scanning (overlay button) and automatic passive detection when opening a retainer's sell list.",
+    "Changelog": "Initial release",
+    "InternalName": "RetainerMarketUploader",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Onind/retainer-upload",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "market",
+      "retainer",
+      "api",
+      "utility"
+    ],
+    "DalamudApiLevel": 10,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Onind/dalamud-plugins/main/plugins/RetainerMarketUploader/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Onind/dalamud-plugins/main/plugins/RetainerMarketUploader/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Onind/dalamud-plugins/main/plugins/RetainerMarketUploader/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": "1771113600"
+  }
+]
