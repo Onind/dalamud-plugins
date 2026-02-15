@@ -4,9 +4,9 @@
     "Name": "Retainer Market Uploader",
     "Punchline": "Upload retainer market listings to external API",
     "Description": "Automatically reads active retainer market listings and uploads them to a configured API endpoint for price tracking and market analysis. Supports both manual bulk scanning (overlay button) and automatic passive detection when opening a retainer's sell list.",
-    "Changelog": "Add additional Bash commands and WebFetch permissions to settings.local.json",
+    "Changelog": "Enhance release workflow to log updates and conditionally commit changes to pluginmaster.json",
     "InternalName": "RetainerMarketUploader",
-    "AssemblyVersion": "2026.215.1442",
+    "AssemblyVersion": "2026.215.1445",
     "RepoUrl": "https://github.com/Onind/retainer-upload",
     "ApplicableVersion": "any",
     "Tags": [
@@ -24,6 +24,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1771166586"
+    "LastUpdate": "1771166753"
   }
 ]
