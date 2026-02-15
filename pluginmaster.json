@@ -15,7 +15,7 @@
       "api",
       "utility"
     ],
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 14,
     "IconUrl": "",
     "ImageUrls": [],
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Onind/dalamud-plugins/main/plugins/RetainerMarketUploader/latest.zip",
@@ -27,4 +27,5 @@
     "LastUpdate": "1771166753"
   }
 ]
+
 
