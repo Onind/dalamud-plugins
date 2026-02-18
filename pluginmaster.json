@@ -4,9 +4,9 @@
     "Name": "Retainer Market Uploader",
     "Punchline": "Upload retainer market listings to external API",
     "Description": "Automatically reads active retainer market listings and uploads them to a configured API endpoint for price tracking and market analysis. Supports both manual bulk scanning (overlay button) and automatic passive detection when opening a retainer's sell list.",
-    "Changelog": "Merge branch 'main' of https://github.com/Onind/retainer-upload",
+    "Changelog": "Merge pull request #2 from Onind/codex/fix-retainer-button-visibility\n\nFix overlay button positioning under UI scaling so retainer upload button appears",
     "InternalName": "RetainerMarketUploader",
-    "AssemblyVersion": "2026.215.1846",
+    "AssemblyVersion": "2026.218.937",
     "RepoUrl": "https://github.com/Onind/retainer-upload",
     "ApplicableVersion": "any",
     "Tags": [
@@ -24,6 +24,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1771181186"
+    "LastUpdate": "1771407451"
   }
 ]
