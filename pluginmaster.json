@@ -4,9 +4,9 @@
     "Name": "Retainer Market Uploader",
     "Punchline": "Upload retainer market listings to external API",
     "Description": "Automatically reads active retainer market listings and uploads them to a configured API endpoint for price tracking and market analysis. Supports both manual bulk scanning (overlay button) and automatic passive detection when opening a retainer's sell list.",
-    "Changelog": "Merge pull request #16 from devnind/dependabot/github_actions/github-actions-c60b243b03",
+    "Changelog": "feat: report sale value and restrict detection to the sale channel (#17)",
     "InternalName": "RetainerMarketUploader",
-    "AssemblyVersion": "2026.801.922.0",
+    "AssemblyVersion": "2026.801.1130.0",
     "RepoUrl": "https://github.com/Onind/retainer-upload",
     "ApplicableVersion": "any",
     "Tags": [
@@ -24,6 +24,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1785576166"
+    "LastUpdate": "1785583838"
   }
 ]
