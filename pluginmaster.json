@@ -31,9 +31,9 @@
     "Name": "XIV Codex Scribe",
     "Punchline": "Contribute anonymous duty loot sightings to XIV Codex.",
     "Description": "Passively records which items drop from bosses and treasure coffers in instanced duties. Captured sightings stay on your machine until you explicitly opt in; only then are sightings uploaded to XIV Codex to build public loot tables. Never records character names, worlds, party members, or any identifier read off you or your machine. The only thing tying your uploads together is the access token you enter yourself, which names you as a tester to the operator and is never public.",
-    "Changelog": "Add the XIV Codex Scribe plugin and its loot sighting pipeline (#157)",
+    "Changelog": "Give the Dalamud plugin the XIV Codex icon (#161)",
     "InternalName": "XivCodexScribe",
-    "AssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.2.1.0",
     "RepoUrl": "https://github.com/devnind/xiv-codex",
     "ApplicableVersion": "any",
     "Tags": [
@@ -42,7 +42,7 @@
       "codex"
     ],
     "DalamudApiLevel": 15,
-    "IconUrl": "",
+    "IconUrl": "https://raw.githubusercontent.com/Onind/dalamud-plugins/main/plugins/XivCodexScribe/images/icon.png",
     "ImageUrls": [],
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Onind/dalamud-plugins/main/plugins/XivCodexScribe/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Onind/dalamud-plugins/main/plugins/XivCodexScribe/latest.zip",
@@ -50,6 +50,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1788369941"
+    "LastUpdate": "1788375383"
   }
 ]
